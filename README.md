@@ -15,7 +15,7 @@ http://trumpable.pre63.com/
 * Semantic UI
 * cors-anywhere
 
-## Limitation
+## Limitations
 * Because the twitter data is scraped from the public page, only the last 20 tweets are displayed. It has the advantage to work without a backend to hide the twitter api credentials. I used cors-anywere demo for this, so the fetch could fail at any time, for like no reason. I'm sorry.
 * Does not work on mobile because I used the fetch api and didn't inclue the polyfill, I'm also sorry for this.
 
