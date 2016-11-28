@@ -4,9 +4,9 @@ http://trumpable.pre63.com/
 
 ## Features
 * Trump's twitter steam
-* Hillay's twitter stream
-* Toggle boutton to switch between streams
-* Background color is animated when fetching data source
+* Hillary's twitter stream
+* Toggle button to switch between streams
+* Background color is animated when fetching data sources
 * Real-time! well almost, every 10 seconds
 
 ## Stack
