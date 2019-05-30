@@ -1,7 +1,5 @@
 # trumpable - Get Trump tweets realtime and much much more.
 
-http://trumpable.pre63.com/
-
 ## Features
 * Trump's twitter steam
 * Hillary's twitter stream
